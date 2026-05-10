@@ -2,6 +2,8 @@
 
 A simple, styled hotel feedback form web page built with HTML and CSS.
 
+## Preview
+
 <img width="774" height="377" alt="Screenshot 2026-05-07 at 1 24 15 PM" src="https://github.com/user-attachments/assets/1f87e781-e712-45a6-b165-955e65587c83" />
 
 ## Description
@@ -45,6 +47,3 @@ To view this project locally:
 
 4. Open http://localhost:8000 in your browser.
 
-## Preview
-
-Open `index.html` in your browser after starting the server to view the form.
